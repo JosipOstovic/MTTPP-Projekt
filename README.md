@@ -1,5 +1,8 @@
 # MTTPP-Projekt
 
+Za izradu željenih testova, koristit će se Katalon Recorder(by Selenium) unutar kojeg će se testirati željena web-stranica te će se kasnije testovi unutar C# aplikacije izvršavati. 
+
+#Izrada testova
 1. Prvo preuzeti Katalon Recorder i otvoriti ga
 2. Zatim unutar aplikacije pronaći direktorij "Test Suites" i unutar njega krenuti s izradom vlastitih testova pritiskom tipke "Record"
 3. Nakon snimanja vlastitog testa, snimljeni test možemo izvršiti pritiskom tipke "Play test case"
